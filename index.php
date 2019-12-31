@@ -24,7 +24,7 @@ body, html {
 </head>
 <body>
 
-<h><b>HELLO EVERYONE ! Welcome to test app</b></h>
+<h><b>HELLO EVERYONE ! Welcome </b></h>
 <div class="bg"></div>
 
 
